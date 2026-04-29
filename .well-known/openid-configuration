@@ -1,0 +1,7 @@
+{
+  "issuer": "https://johnsmith388881508.github.io/wif_pub/",
+  "jwks_uri": "https://johnsmith388881508.github.io/wif_pub/jwks.json",
+  "response_types_supported": ["id_token"],
+  "subject_types_supported": ["public"],
+  "id_token_signing_alg_values_supported": ["RS256"]
+}
